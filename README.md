@@ -1,5 +1,5 @@
 # land-change-near-us-parks-and-protected-areas
-This is the public repository for R code files used to query and analyze data for the companion manuscript entitled <b>"Protection status and proximity to public-private boundaries influence land use intensification near U.S. parks and protected areas</b>." The manuscript is accepted for publication in the journal <i>Conservation Science and Practice</i>, and this file will be updated with the final citation when the article is published online.
+This is the public repository for Python and R code files used to query and analyze data for the companion manuscript entitled <b>"Protection status and proximity to public-private boundaries influence land use intensification near U.S. parks and protected areas</b>." The manuscript is accepted for publication in the journal <i>Conservation Science and Practice</i>, and this file will be updated with the final citation when the article is published online.
 
 Author Affiliations:
 Jelena Vukomanovic(a,b), Kunwar K. Singh(b,d), John B. Vogler(b), and Ross K. Meentemeyer(b,c) 
